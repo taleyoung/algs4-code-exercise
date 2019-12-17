@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestSort",
+            "request": "launch",
+            "mainClass": "task2.TestSort"
+        }
+    ]
+}
